@@ -2,6 +2,7 @@
 title: Home
 sections:
   - type: hero_section
+    
     title: Blissful Warmth and Relief
     subtitle: >-
       Life can get hectic at times. Join us for a moment of pure serenity.
