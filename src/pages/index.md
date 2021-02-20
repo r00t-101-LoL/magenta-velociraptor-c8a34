@@ -19,7 +19,6 @@ sections:
     has_background: true
     background:
       background_color: gray
-      background_image: images/1.svg
       background_image_opacity: 20
       background_image_size: contain
       background_image_repeat: no-repeat
