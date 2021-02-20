@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/4.svg
+    image: images/enthusiastic-sage.svg
     image_position: right
     has_background: true
     background:
