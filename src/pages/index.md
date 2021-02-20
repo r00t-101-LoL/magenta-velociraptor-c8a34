@@ -4,19 +4,19 @@ sections:
   - type: hero_section
     image: images/enthusiastic-sage.svg
     image_position: center
-        type: hero_section
-        title: Blissful Warmth and Relief
-        subtitle: >-
-        Life can get hectic at times. Join us for a moment of pure serenity.
-        Instant relief at your finger tips.
-        actions:
-        - label: Learn More
-            url: /features
-            style: primary
-        - label: Contact Us
-            url: /contact
-            style: secondary
-        align: center
+    type: hero_section
+    title: Blissful Warmth and Relief
+    subtitle: >-
+      Life can get hectic at times. Join us for a moment of pure serenity.
+      Instant relief at your finger tips.
+    actions:
+      - label: Learn More
+        url: /features
+        style: primary
+      - label: Contact Us
+        url: /contact
+        style: secondary
+    align: center
     
     has_background: true
     background:
