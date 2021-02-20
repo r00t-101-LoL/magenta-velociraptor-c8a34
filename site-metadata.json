@@ -1,11 +1,11 @@
 {
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
-        "title": "Starter",
+        "title": "Sol Lotus",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
+                "label": "Products",
                 "url": "/features",
                 "style": "link"
             },
@@ -20,7 +20,7 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Resources",
                 "url": "/style-guide",
                 "style": "link"
             },
@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/6.png"
     },
     "footer": {
         "has_nav": true,
@@ -66,10 +67,10 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit-Starter. All rights reserved.",
+        "content": "were out hee",
         "links": [
             {
-                "label": "Made with Stackbit.",
+                "label": "Joshua",
                 "url": "https://www.stackbit.com",
                 "style": "link",
                 "new_window": true

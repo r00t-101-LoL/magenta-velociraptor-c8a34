@@ -2,10 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Blissful Warmth and Relief
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Life can get hectic at times. Join us for a moment of pure serenity.
+      Instant relief at your finger tips.
     actions:
       - label: Learn More
         url: /features
@@ -14,17 +14,16 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: images/enthusiastic-sage.svg
     image_position: right
     has_background: true
     background:
-      background_color: blue
-      background_image: images/diagonal-lines.svg
+      background_color: gray
       background_image_opacity: 20
-      background_image_size: auto
-      background_image_repeat: repeat
+      background_image_size: contain
+      background_image_repeat: no-repeat
   - type: features_section
-    title: Features
+    title: The journey begins here...
     features:
       - title: Feature 1
         content: >-
@@ -32,7 +31,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: images/feature.svg
+        image: images/zen.jpg
         image_position: right
         actions:
           - label: Learn More
@@ -44,7 +43,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         align: left
-        image: images/feature.svg
+        image: images/oil.png
         image_position: left
         actions:
           - label: Learn More
@@ -56,7 +55,7 @@ sections:
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
           ante.
         align: left
-        image: images/feature.svg
+        image: images/Addressing inflammation.jpg
         image_position: right
         actions:
           - label: Learn More
@@ -67,7 +66,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA
+    title: Welcome to the new Golden Era
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
