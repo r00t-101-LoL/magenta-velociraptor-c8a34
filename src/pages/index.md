@@ -20,7 +20,7 @@ sections:
     
     has_background: true
     background:
-      background_color: blacks
+      background_color: black
       background_image_opacity: 20
       background_image_size: contain
       background_image_repeat: no-repeat
