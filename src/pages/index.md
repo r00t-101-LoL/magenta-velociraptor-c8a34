@@ -15,7 +15,7 @@ sections:
         style: secondary
     align: left
     image: images/enthusiastic-sage.svg
-    image_position: right
+    image_position: left
     has_background: true
     background:
       background_color: gray
