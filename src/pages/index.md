@@ -23,7 +23,7 @@ sections:
       background_image_size: contain
       background_image_repeat: no-repeat
   - type: features_section
-    title: Features
+    title: The journey begins here...
     features:
       - title: Feature 1
         content: >-
