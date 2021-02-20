@@ -9,7 +9,7 @@ sections:
       title: Blissful Warmth and Relief
       subtitle: >-
         Life can get hectic at times. Join us for a moment of pure serenity.
-      Instant relief at your finger tips.
+        Instant relief at your finger tips.
     actions:
       - label: Learn More
         url: /features
