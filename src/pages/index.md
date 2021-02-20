@@ -31,7 +31,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: images/feature.svg
+        image: images/zen.jpg
         image_position: right
         actions:
           - label: Learn More
