@@ -14,9 +14,9 @@ sections:
         - label: Learn More
           url: /features
           style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
+        - label: Contact Us
+          url: /contact
+          style: secondary
     align: center
     
     has_background: true
