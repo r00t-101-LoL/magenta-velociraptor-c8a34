@@ -23,7 +23,7 @@ export default class HeroSection extends React.Component {
                   <div className={classNames('cell', 'section__media', {'section__media--right': _.get(section, 'image_position', null) === 'right'})}>
                     <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'title', null)} />
                   </div>
-                  )}
+                  )}</div>
               <div className="container container--lg">
                 
                   <div className="cell section__body">
