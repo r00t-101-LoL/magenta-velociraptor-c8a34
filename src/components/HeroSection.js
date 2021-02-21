@@ -28,7 +28,7 @@ export default class HeroSection extends React.Component {
                   )}
                   <div className="cell section__body">
                     {_.get(section, 'title', null) && (
-                    this.newMethod(section)
+                    this.newMethod_1(section)
                     )}
                     {_.get(section, 'subtitle', null) && (
                     <div className="section__copy">
@@ -45,6 +45,10 @@ export default class HeroSection extends React.Component {
               </div>
             </section>
         );
+    }
+
+    newMethod_1(section) {
+        return this.newMethod(section);
     }
 
     newMethod(section) {
