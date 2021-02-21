@@ -1,11 +1,12 @@
 ---
 title: Home
 sections:
+ sections:
   - type: hero_section
-    title: Blissful Warmth and Relief
+    title: This Is A Big Hero Headline
     subtitle: >-
-      Life can get hectic at times. Join us for a moment of pure serenity.
-      Instant relief at your finger tips.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+      quis lorem malesuada luctus.
     actions:
       - label: Learn More
         url: /features
@@ -13,7 +14,11 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-      align: center
+    align: left
+    image: images/hero.svg
+    image_alt: Hero placeholder image
+    image_position: right
+    has_background: true
     image: images/enthusiastic-sage.svg
     image_position: center
     
