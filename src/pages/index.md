@@ -14,6 +14,7 @@ sections:
         url: /contact
         style: secondary
       align: center
+      
     
     has_background: true
     background:
