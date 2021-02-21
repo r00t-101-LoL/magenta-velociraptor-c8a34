@@ -8,7 +8,7 @@ sections:
       Instant relief at your finger tips.
     actions:
       - label: Learn More
-          url: /features
+        url: /features
           style: primary
         - label: Contact Us
           url: /contact
