@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Blissful and '
+    title: Blissful and Happy
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
