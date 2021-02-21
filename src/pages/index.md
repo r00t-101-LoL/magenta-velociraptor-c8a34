@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: center
-    image: images/futuristic-spinach.png
+    image: images/commerce.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
