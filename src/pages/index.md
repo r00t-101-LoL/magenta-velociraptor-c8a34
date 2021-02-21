@@ -4,7 +4,6 @@ sections:
   - type: hero_section
     image: images/enthusiastic-sage.svg
     image_position: center
-    align: center
   - type: hero_section
       title: Blissful Warmth and Relief
       subtitle: >-
