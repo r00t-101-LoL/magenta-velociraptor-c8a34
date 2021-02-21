@@ -7,7 +7,7 @@ sections:
       Life can get hectic at times. Join us for a moment of pure serenity.
       Instant relief at your finger tips.
     actions:
-    - label: Learn More
+      - label: Learn More
           url: /features
           style: primary
         - label: Contact Us
