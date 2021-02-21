@@ -14,7 +14,10 @@ sections:
         url: /contact
         style: secondary
       align: center
-      
+
+      - type: hero_section
+    image: images/enthusiastic-sage.svg
+    image_position: center
     
     has_background: true
     background:
