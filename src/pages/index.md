@@ -12,7 +12,7 @@ sections:
         style: primary
       - label: Contact Us
         url: /contact
-          style: secondary
+        style: secondary
       align: center
     
     has_background: true
