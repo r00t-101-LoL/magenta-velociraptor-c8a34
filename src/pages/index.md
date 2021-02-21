@@ -1,7 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
     image: images/enthusiastic-sage.svg
     image_position: center
   
