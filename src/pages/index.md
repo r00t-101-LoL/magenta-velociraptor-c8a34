@@ -19,8 +19,6 @@ sections:
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
-    image: images/enthusiastic-sage.svg
-    image_position: center
     
     has_background: true
     background:
