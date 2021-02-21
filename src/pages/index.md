@@ -1,8 +1,6 @@
 ---
 title: Home
 sections:
-    image: images/enthusiastic-sage.svg
-    image_position: center
   
   - type: hero_section
       title: Blissful Warmth and Relief
