@@ -1,7 +1,6 @@
 ---
 title: Home
 sections:
-  
   - type: hero_section
       title: Blissful Warmth and Relief
       subtitle: >-
