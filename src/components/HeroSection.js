@@ -13,6 +13,7 @@ export default class HeroSection extends React.Component {
         let background_opacity = background_opacity_pct * 0.01;
         let background_size = _.get(background, 'background_image_size', null) || 'cover';
         let background_repeat = _.get(background, 'background_image_repeat', null) || 'no-repeat';
+        const newLocal = this.newMethod_1(section);
         return (
             <section className={classNames('section', 'hero', {'bg-image': _.get(section, 'has_background', null) && _.get(background, 'background_image', null), 'inverse bg-blue': _.get(section, 'has_background', null) && (background_color === 'blue'), 'bg-gray': _.get(section, 'has_background', null) && (background_color === 'gray'), 'section--padding': _.get(section, 'has_background', null) || _.get(section, 'image', null)})}>
               {(_.get(section, 'has_background', null) && _.get(background, 'background_image', null)) && (
@@ -28,7 +29,7 @@ export default class HeroSection extends React.Component {
                   )}
                   <div className="cell section__body">
                     {_.get(section, 'title', null) && (
-                    this.newMethod_1(section)
+                    newLocal
                     )}
                     {_.get(section, 'subtitle', null) && (
                     <div className="section__copy">
