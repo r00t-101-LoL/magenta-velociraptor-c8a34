@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: center
-    image: images/SOL LOTUS3.svg
+    image: images/magnificent-goose.svg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
