@@ -22,7 +22,7 @@ sections:
       background_image_opacity: 20
       background_image_size: contain
       background_image_repeat: no-repeat
-    title: Live your best kufe
+    title: Live your best Life
   - type: features_section
     title: The journey begins here...
     features:
