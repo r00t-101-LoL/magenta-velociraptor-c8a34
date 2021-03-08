@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: 'Focused, Happy and Relaxed'
     features:
-      - title: Feature 1
+      - title: Relaxed
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
