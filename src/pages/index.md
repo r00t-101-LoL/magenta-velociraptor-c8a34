@@ -74,6 +74,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-    title: 'Find '
+    title: 'Find your '
 template: advanced
 ---
