@@ -22,7 +22,7 @@ sections:
       background_image_repeat: no-repeat
     title: Live Your Best Life
   - type: features_section
-    title: The journey begins here...
+    title: 'Focused, Happy and Relaxed'
     features:
       - title: Feature 1
         content: >-
