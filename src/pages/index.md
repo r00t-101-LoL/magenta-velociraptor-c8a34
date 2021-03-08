@@ -74,6 +74,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-    title: 'Find your '
+    title: Find your vibe
 template: advanced
 ---
