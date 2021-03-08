@@ -22,7 +22,7 @@ sections:
       background_image_repeat: no-repeat
     title: Live Your Best Life
   - type: features_section
-    title: 'Focused, Happy and Relaxed'
+    title: 'How '
     features:
       - title: Relaxed
         content: >-
