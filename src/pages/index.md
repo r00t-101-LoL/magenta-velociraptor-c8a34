@@ -22,7 +22,7 @@ sections:
       background_image_repeat: no-repeat
     title: Live Your Best Life
   - type: features_section
-    title: What's Your Vi
+    title: What's Your Vibe?
     features:
       - title: Relaxed
         content: >-
