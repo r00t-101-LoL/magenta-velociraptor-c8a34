@@ -73,7 +73,8 @@
                 "style": "link",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "foo"
     },
     "title": "Sol Lotus",
     "description": "Refresh Existence"
