@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Embrace your roots and
+    subtitle: 'Embrace your roots and '
     actions:
       - label: Learn More
         url: /features
