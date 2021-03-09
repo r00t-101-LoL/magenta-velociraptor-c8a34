@@ -8,14 +8,14 @@ export default class HeroSection extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let background = _.get(section, 'background', null);
-        let background_color = _.get(background, 'background_color', null) || 'white';
+        let background_color = _.get(background, 'background_color', null) || 'black';
         let background_opacity_pct = _.get(background, 'background_image_opacity', null) || 100;
         let background_opacity = background_opacity_pct * 0.01;
         let background_size = _.get(background, 'background_image_size', null) || 'cover';
         let background_repeat = _.get(background, 'background_image_repeat', null) || 'no-repeat';
         const newLocal = this.newMethod_1(section);
         return (
-            <section className={classNames('section', 'hero', {'bg-image': _.get(section, 'has_background', null) && _.get(background, 'background_image', null), 'inverse bg-blue': _.get(section, 'has_background', null) && (background_color === 'blue'), 'bg-black': _.get(section, 'has_background', null) && (background_color === 'gray'), 'section--padding': _.get(section, 'has_background', null) || _.get(section, 'image', null)})}>
+            <section className={classNames('section', 'hero', {'bg-image': _.get(section, 'has_background', null) && _.get(background, 'background_image', null), 'bg-black': _.get(section, 'has_background', null) && (background_color === 'blue'), 'bg-black': _.get(section, 'has_background', null) && (background_color === 'gray'), 'section--padding': _.get(section, 'has_background', null) || _.get(section, 'image', null)})}>
               {(_.get(section, 'has_background', null) && _.get(background, 'background_image', null)) && (
               <div className="bg-image__image" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(background, 'background_image', null)) + '\'); opacity: ' + background_opacity + '; background-size: ' + background_size + '; background-repeat: ' + background_repeat)}/>
               )}<div>
