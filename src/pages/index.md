@@ -20,7 +20,7 @@ sections:
       background_image_opacity: 20
       background_image_size: contain
       background_image_repeat: no-repeat
-    title: Live Your Best Life
+    title: A Name You Can Trust
   - type: features_section
     title: What's Your Vibe?
     features:
