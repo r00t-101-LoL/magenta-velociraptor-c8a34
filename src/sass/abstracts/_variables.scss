@@ -3,9 +3,11 @@
 $color-text:                   #fff !default;
 $color-heading:                #282f36 !default;
 $color-meta:                   #fff !default;
-$color-bg:                     #fff !default;
+$color-bg:                     #000 !default;
 $color-bg-alt:                 #f5f6f7 !default;
 $color-bg-overlay:             rgba(245,246,247,.8) !default;
+//$color-bg-overlay:             rgba(0,0,0,1) !default;
+
 $color-border:                 #e1e4e9 !default;
 
 // Links
@@ -35,9 +37,9 @@ $color-inverse-heading:        #fff !default;
 $color-inverse-bg:             #005bc4 !default;
 $color-inverse-link:           #f5f6f7 !default;
 $color-inverse-btn:            #fff !default;
-$color-inverse-btn-bg:         #28aaff !default;
-$color-inverse-btn-border:     #28aaff !default;
-$color-inverse-btn-alt:        #28aaff !default;
+$color-inverse-btn-bg:         #af7741 !default;
+$color-inverse-btn-border:     #af7741 !default;
+$color-inverse-btn-alt:        #af7741 !default;
 $color-inverse-btn-alt-bg:     #fff !default;
 $color-inverse-btn-alt-border: #fff !default;
 $color-inverse-btn-clear:      #fff !default;
