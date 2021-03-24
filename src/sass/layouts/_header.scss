@@ -56,7 +56,7 @@
   .navbar {
     &:after {
       //background: $color-bg-overlay;
-      background: goldenrod;
+      background: $color-bg-overlay;
       content: "";
       height: 100vh;
       left: 0;
