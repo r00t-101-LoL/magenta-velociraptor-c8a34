@@ -5,19 +5,30 @@ sections:
     title: Who We Are
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+    content: >
+      We care about your well-being. We are a family business and have organic
+      products to keep your healthy lifestyle. Sol Lotus Botanicals received the
+      name not by accident; but with the true meanings of the Lotus Flower in
+      mind. Our products are the preferred alternative to managing stress, pain,
+      and to promote a healthier life. Our mission is to offer you the best
+      organic products at an affordable price.
 
 
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+      We specialize in non-narcotic practices that help you with relieving many
+      body discomforts such as chronic discomfort, nerve neuropathy stings,
+      joint discomfort, back discomfort and also helps with your mood and
+      cravings. Herbs have been used for centuries to balance and heal in a
+      natural way. Some of the more interesting health benefits of organic herbs
+      include their ability to suppress appetite, lower blood pressure, bodily
+      discomfort relief, boost metabolism, increase sexual energy, improve the
+      immune system. Cultures around the world have been known to use herbal
+      remedies to help with anxiety, eliminate stress, and induce healthy sleep.
+
+
+      Herbs, plants, roots, were commonly used before western pharmaceuticals
+      were introduced. Organic Herbs, like Blue Lotus, Kava, Cats Claw,
+      Ashwagandha Root, are just a few that give our bodies multiple benefits
+      for internal health.
   - type: team_section
     title: Our Team
     team:
