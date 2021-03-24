@@ -28,18 +28,13 @@ sections:
     title: Our Mission To You
     features:
       - title: Naturally Superior Solutions
-        content: >+
-          We specialize in non-narcotic practices that help you with relieving
-          many body discomforts such as chronic discomfort, nerve neuropathy
-          stings, joint discomfort, back discomfort and also helps with your
-          mood and cravings. Herbs have been used for centuries to balance and
-          heal in a natural way. Some of the more interesting health benefits of
-          organic herbs include their ability to suppress appetite, lower blood
-          pressure, bodily discomfort relief, boost metabolism, increase sexual
-          energy, improve the immune system. Cultures around the world have been
-          known to use herbal remedies to help with anxiety, eliminate stress,
-          and induce healthy sleep.
-
+        content: >
+          We care about your well-being. We are a family business and have
+          organic products to keep your healthy lifestyle. Sol Lotus Botanicals
+          received the name not by accident; but with the true meanings of the
+          Lotus Flower in mind. Our products are the preferred alternative to
+          managing stress, pain, and to promote a healthier life. Our mission is
+          to offer you the best organic products at an affordable price.
         align: left
         image: images/zen.jpg
         image_position: right
