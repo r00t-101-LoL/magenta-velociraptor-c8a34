@@ -25,7 +25,7 @@ sections:
       background_image_repeat: no-repeat
     title: A Name You Can Trust
   - type: features_section
-    title: What's Your Vibe?
+    title: Our Mission To You
     features:
       - title: Relaxed
         content: >-
