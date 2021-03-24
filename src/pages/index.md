@@ -12,7 +12,7 @@ sections:
         style: secondary
       - label: Products
         url: /contact
-        style: secondary
+        style: primary
     align: center
     image: images/magnificent-goose.svg
     image_alt: Hero placeholder image
