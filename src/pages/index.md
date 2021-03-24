@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: What's Your Vibe
     features:
-      - title: Relaxed
+      - title: Relaxed and Relieved
         content: >
           Our relaxing line of products provide a holistic, discreet and
           flexible option for those needing strong pain and anti-inflammatory
