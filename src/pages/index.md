@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: What's Your Vibe
     features:
-      - title: Premium and Natural
+      - title: Relaxed
         content: >
           We care about your well-being. We are a family business and have
           organic products to keep your healthy lifestyle. Sol Lotus Botanicals
