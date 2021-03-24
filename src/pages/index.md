@@ -59,7 +59,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Timeless Traditional Theraputics
+      - title: Enlightened
         content: >
           Herbs, plants, roots, were commonly used before western
           pharmaceuticals were introduced. Organic Herbs, like Blue Lotus, Kava,
