@@ -62,10 +62,11 @@ sections:
             url: /features
             style: secondary
       - title: 'Focused '
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Herbs, plants, roots, were commonly used before western
+          pharmaceuticals were introduced. Organic Herbs, like Blue Lotus, Kava,
+          Cats Claw, Ashwagandha Root, are just a few that give our bodies
+          multiple benefits for internal health. 
         align: left
         image: images/Addressing inflammation.jpg
         image_position: right
