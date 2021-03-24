@@ -48,10 +48,17 @@ sections:
             url: /features
             style: secondary
       - title: Enlightened
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We specialize in non-narcotic practices that help you with relieving
+          many body discomforts such as chronic discomfort, nerve neuropathy
+          stings, joint discomfort, back discomfort and also helps with your
+          mood and cravings. Herbs have been used for centuries to balance and
+          heal in a natural way. Some of the more interesting health benefits of
+          organic herbs include their ability to suppress appetite, lower blood
+          pressure, bodily discomfort relief, boost metabolism, increase sexual
+          energy, improve the immune system. Cultures around the world have been
+          known to use herbal remedies to help with anxiety, eliminate stress,
+          and induce healthy sleep.
         align: left
         image: images/oil.png
         image_position: left
