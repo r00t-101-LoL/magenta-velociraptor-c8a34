@@ -66,7 +66,7 @@ sections:
           Cats Claw, Ashwagandha Root, are just a few that give our bodies
           multiple benefits for internal health. 
         align: left
-        image: images/Addressing inflammation.jpg
+        image: images/IMG-0674.jpg
         image_position: right
         actions:
           - label: Learn More
