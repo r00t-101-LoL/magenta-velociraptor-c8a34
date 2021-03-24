@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Our Mission To You
     features:
-      - title: Relaxed
+      - title: Naturally Superior Solutions
         content: >+
           We specialize in non-narcotic practices that help you with relieving
           many body discomforts such as chronic discomfort, nerve neuropathy
