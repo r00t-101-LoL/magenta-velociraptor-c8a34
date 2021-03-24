@@ -29,12 +29,10 @@ sections:
     features:
       - title: Relaxed
         content: >
-          We care about your well-being. We are a family business and have
-          organic products to keep your healthy lifestyle. Sol Lotus Botanicals
-          received the name not by accident; but with the true meanings of the
-          Lotus Flower in mind. Our products are the preferred alternative to
-          managing stress, pain, and to promote a healthier life. Our mission is
-          to offer you the best organic products at an affordable price.
+          Our relaxing line of products provide a holistic, discreet and
+          flexible option for those needing strong pain and anti-inflammatory
+          relief. Our formulations come in a variety of calming therapeutics,
+          allowing you to customize your care to your needs.
         align: left
         image: images/zen.jpg
         image_position: right
