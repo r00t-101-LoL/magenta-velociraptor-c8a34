@@ -40,7 +40,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Enlightened and Focused
+      - title: Stimulated and Focused
         content: >
           We specialize in non-narcotic practices that help you with relieving
           many body discomforts such as chronic discomfort, nerve neuropathy
