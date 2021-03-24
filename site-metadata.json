@@ -6,7 +6,7 @@
             {
                 "label": "Products",
                 "url": "/features",
-                "style": "secondary"
+                "style": "primary"
             },
             {
                 "label": "Blog",
