@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Featured Products
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: Premium Botanical and Wellness Blends
     align: center
   - type: features_section
     features:
