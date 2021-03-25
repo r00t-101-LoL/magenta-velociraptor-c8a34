@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Featured Products
+    title: Featured Product Categories
     subtitle: Premium Botanical and Wellness Blends
     align: center
   - type: features_section
