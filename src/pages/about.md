@@ -36,7 +36,6 @@ sections:
       - src/data/team/dianne-ameter.yaml
       - src/data/team/person-le36g6d0a.json
       - src/data/team/eleanor-carr.yaml
-      - src/data/team/hanson-deck.yaml
       - src/data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
