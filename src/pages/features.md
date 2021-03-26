@@ -38,7 +38,7 @@ sections:
 
       With enhanced bioavailability, Sol Lotus's items offer a trustworthy, consistent dose. Like all medications, an individual's dose is based on 
       many factors, such as age, body composition as well as diagnosis. One spray makes up a common dose for many patients, although some choose to cut a spot into fifty percents or perhaps quarters, while others may 
-      make use of greater than one spot to attain alleviation.
+      make use of greater than one spray to attain alleviation.
 
       Cannabinoids are the chemical compounds within cannabis that are 
       reported to relieve several disorders. When cannabis is carried out, 
