@@ -6,43 +6,42 @@ sections:
     align: center
   - type: content_section
     content: >
-      ### An alternative to medicine. Not alternative medicine, 
+      ##### An alternative to medicine. Not alternative medicine,
 
 
       We've been advocates for the healing powers of cannabis since the
       compassionate care act in California in 1996, and it’s time to set the
-      record straightPeople have to help people and my unique circumstance gave
+      record straight.People have to help people and my unique circumstance gave
       me the chance to help shape the consciousness of those around me, develop
-      culture and heal bodies naturally. 
+      culture and heal bodies naturally.
 
 
+      We're here to offer our individuals with a much better lifestyle via
+      plant-based 
 
-      ### We're here to offer our individuals with a much better lifestyle via
-      plant-based &#xA;components and technology advancements. 
-
-
-      Merging modern-day innovation  with recognized horticulture methods
-      enables for the very easy 
+      components and technology advancements.Merging modern-day innovation  with
+      recognized horticulture methods enables for the very easy
 
       combination of the therapeutic power of cannabis right into one's daily
       regimen.
 
 
-      Distilling the knowledge of plants to aid individuals get to the full 
-
-      capacity of their bodies, minds and lives. 
+      Distilling the knowledge of plants to aid individuals get to the full
+      capacity of their bodies, minds and lives.
 
 
       Our professional researchers  team up with several of the top doctors in
-      their fields to create 
+      their fields to create
 
-      innovative cannabis therapies that permit people to take control of 
+      innovative cannabis therapies that permit people to take control of
 
-      their own health with very targeted, results-driven approaches. Our 
+      their own health with very targeted, results-driven approaches. Our
 
       organic cannabis extract and also progressed delivery systems are of the
-       finest quality as well as standards, which indicates that we provide 
-      one of the most efficient treatment and distribution incorporated with 
+
+      finest quality as well as standards, which indicates that we provide
+
+      one of the most efficient treatment and distribution incorporated with
 
       the ideal components.
   - type: team_section
