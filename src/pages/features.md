@@ -5,6 +5,8 @@ sections:
     title: |-
       An alternative to medication.
       Not natural medicine.
+
+
     subtitle: |-
       Cannabinoids are the chemical substances within cannabis that are reported to relieve numerous ailments. Cannabinoids resemble 
       endocannabinoids, compounds our bodies normally create to control as well as balance communication in between cells. Scientists think that unpleasant signs and symptoms as well as diseases occur when a deficiency or problem impacts the endocannabinoid system.
