@@ -7,8 +7,7 @@ sections:
       Not natural medicine.
     subtitle: |-
       Cannabinoids are the chemical substances within cannabis that are reported to relieve numerous ailments. Cannabinoids resemble 
-      endocannabinoids, compounds our bodies normally create to control as well as balance communication in between cells. Scientists think that unpleasant signs and symptoms as well as diseases occur when a 
-      deficiency or problem impacts the endocannabinoid system.
+      endocannabinoids, compounds our bodies normally create to control as well as balance communication in between cells. Scientists think that unpleasant signs and symptoms as well as diseases occur when a deficiency or problem impacts the endocannabinoid system.
 
       Cannabinoids bind to receptor sites in the brain as well as body when 
       marijuana is administered. Cannabinoids have various effects based upon 
