@@ -19,8 +19,7 @@ sections:
 
     UNDERSTANDING BIOAVAILABILITY As Well As APPLICATION
 
-      Studies reveal that oral absorbtion is the most efficient method of supplying cannabis to the body, as it directly enters the bloodstream. 
-      When marijuana is smoked or eaten, individuals might shed up to 70 percent of it to air stomach, metabolism and vaporization acid, which is
+      Studies reveal that oral absorbtion is the most efficient method of supplying cannabis to the body, as it directly enters the bloodstream. When marijuana is smoked or eaten, individuals might shed up to 70 percent of it to air stomach, metabolism and vaporization acid, which is
       inefficient as well as makes exact dosing hard. Our oral spray is the answer.
 
       With enhanced bioavailability, Sol Lotus's items offer a trustworthy, consistent dose. Like all medications, an individual's dose is based on 
