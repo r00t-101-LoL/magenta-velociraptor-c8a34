@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Contact
+    title: Contact Us
     align: center
     subtitle: >-
       We'd love to hear from you.  Many frequently asked questions are answered
