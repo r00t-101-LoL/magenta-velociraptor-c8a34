@@ -16,7 +16,7 @@ sections:
 
       Terpenes and also terpenoids are the key components of the important oils of many types of plants and blossoms. They provide cannabiss varieties their unique buildings, flavors as well as fragrances. hroughout the procedure of removing crucial oils from cannabis, terpenes are often shed. However, Sol Lotus strives to maintain or renew 
       crucial terpenes in the production of all of its products.
-  title: |-
+    title: |-
       UNDERSTANDING BIOAVAILABILITY As Well As APPLICATION
     subtitle: |-
       Studies reveal that oral absorbtion is the most efficient method of supplying cannabis to the body, as it directly enters the bloodstream. When cannabis is smoked or eaten, individuals might shed up to 70 percent of it to air stomach, metabolism and vaporization acid, which is
