@@ -6,7 +6,7 @@ sections:
     align: center
   - type: content_section
     content: >
-      ##### An alternative to medicine. Not alternative medicine,
+      ###### An alternative to medicine. Not alternative medicine,
 
 
       We've been advocates for the healing powers of cannabis since the
@@ -17,7 +17,7 @@ sections:
 
 
       We're here to offer our individuals with a much better lifestyle via
-      plant-based 
+      plant-based
 
       components and technology advancements.Merging modern-day innovation  with
       recognized horticulture methods enables for the very easy
@@ -26,8 +26,8 @@ sections:
       regimen.
 
 
-      Distilling the knowledge of plants to aid individuals get to the full
-      capacity of their bodies, minds and lives.
+      ###### Distilling the knowledge of plants to aid individuals get to the
+      full capacity of their bodies, minds and lives.
 
 
       Our professional researchers  team up with several of the top doctors in
