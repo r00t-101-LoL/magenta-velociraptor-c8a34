@@ -37,8 +37,7 @@ sections:
       inefficient as well as makes exact dosing hard. Our oral spray is the answer.
 
       With enhanced bioavailability, Sol Lotus's items offer a trustworthy, consistent dose. Like all medications, an individual's dose is based on 
-      many factors, such as age, body composition as well as diagnosis. One spot makes up a common dose for many patients, although some choose to 
-      cut a spot into fifty percents or perhaps quarters, while others may 
+      many factors, such as age, body composition as well as diagnosis. One spot makes up a common dose for many patients, although some choose to cut a spot into fifty percents or perhaps quarters, while others may 
       make use of greater than one spot to attain alleviation.
 
       Cannabinoids are the chemical compounds within cannabis that are 
