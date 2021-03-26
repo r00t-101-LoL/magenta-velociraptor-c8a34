@@ -36,8 +36,7 @@ sections:
       When marijuana is smoked or eaten, individuals might shed up to 70 percent of it to air stomach, metabolism and vaporization acid, which is
       inefficient as well as makes exact dosing hard. Our oral spray is the answer.
 
-      With enhanced bioavailability, Sol Lotus's items offer a trustworthy, 
-      consistent dose. Like all medications, an individual's dose is based on 
+      With enhanced bioavailability, Sol Lotus's items offer a trustworthy, consistent dose. Like all medications, an individual's dose is based on 
       many factors, such as age, body composition as well as diagnosis. One 
       spot makes up a common dose for many patients, although some choose to 
       cut a spot into fifty percents or perhaps quarters, while others may 
