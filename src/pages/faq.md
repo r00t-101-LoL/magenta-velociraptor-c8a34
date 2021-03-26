@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Healing Powers of Hemp
 excerpt: lorem-ipsum
 template: page
 ---
