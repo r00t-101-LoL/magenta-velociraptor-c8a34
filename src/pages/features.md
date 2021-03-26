@@ -14,7 +14,7 @@ sections:
       increasing understanding of the effects of cannabinoids, individuals cancurrently customize their cannabinoid usage to the kind of relief they 
       need.
 
-      Terpenes and also terpenoids are the key components of the important oils of many types of plants and blossoms. They provide marijuana 
+      Terpenes and also terpenoids are the key components of the important oils of many types of plants and blossoms. They provide cannabiss 
       varieties their unique buildings, flavors as well as fragrances. 
       Throughout the procedure of removing crucial oils from cannabis, 
       terpenes are often shed. However, Sol Lotus strives to maintain or renew 
