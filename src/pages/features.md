@@ -2,7 +2,9 @@
 title: Features
 sections:
   - type: hero_section
-    title: Featured Product Categories
+    title: |-
+      An alternative to medication.
+      Not natural medicine.
     subtitle: |-
       Cannabinoids are the chemical substances within cannabis that are 
       reported to relieve numerous ailments. Cannabinoids resemble 
