@@ -19,7 +19,7 @@ sections:
 
     UNDERSTANDING BIOAVAILABILITY As Well As APPLICATION
 
-      Studies reveal that oral shipment is the most efficient method of 
+      Studies reveal that oral absorbtion is the most efficient method of 
       supplying marijuana to the body, as it directly enters the bloodstream. 
       When marijuana is smoked or eaten, individuals might shed up to 70 percent of it to air stomach, metabolism and vaporization acid, which is
       inefficient as well as makes exact dosing hard. Our oral spray is the answer.
