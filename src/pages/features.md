@@ -34,9 +34,7 @@ sections:
       Study reveals that transdermal shipment is the most efficient method of 
       supplying marijuana to the body, as it directly enters the bloodstream. 
       When marijuana is smoked or eaten, individuals might shed up to 70 percent of it to air stomach, metabolism and vaporization acid, which is
-      inefficient as well as makes exact dosing hard. Mary's transdermal 
-      items are so efficient that the application of a conventional 10mg patch
-       may amount that of an 80mg edible.
+      inefficient as well as makes exact dosing hard. 
 
       With enhanced bioavailability, Mary's items offer a trustworthy, 
       consistent dose. Like all medications, an individual's dose is based on 
