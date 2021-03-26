@@ -6,29 +6,45 @@ sections:
     align: center
   - type: content_section
     content: >
-      We care about your well-being. We are a family business and have organic
-      products to keep your healthy lifestyle. Sol Lotus Botanicals received the
-      name not by accident; but with the true meanings of the Lotus Flower in
-      mind. Our products are the preferred alternative to managing stress, pain,
-      and to promote a healthier life. Our mission is to offer you the best
-      organic products at an affordable price.
+      ### An alternative to medicine. Not alternative medicine, 
 
 
-      We specialize in non-narcotic practices that help you with relieving many
-      body discomforts such as chronic discomfort, nerve neuropathy stings,
-      joint discomfort, back discomfort and also helps with your mood and
-      cravings. Herbs have been used for centuries to balance and heal in a
-      natural way. Some of the more interesting health benefits of organic herbs
-      include their ability to suppress appetite, lower blood pressure, bodily
-      discomfort relief, boost metabolism, increase sexual energy, improve the
-      immune system. Cultures around the world have been known to use herbal
-      remedies to help with anxiety, eliminate stress, and induce healthy sleep.
+      We've been advocates for the healing powers of cannabis since the
+      compassionate care act in California in 1996, and it’s time to set the
+      record straightPeople have to help people and my unique circumstance gave
+      me the chance to help shape the consciousness of those around me, develop
+      culture and heal bodies naturally. 
 
 
-      Herbs, plants, roots, were commonly used before western pharmaceuticals
-      were introduced. Organic Herbs, like Blue Lotus, Kava, Cats Claw,
-      Ashwagandha Root, are just a few that give our bodies multiple benefits
-      for internal health.
+
+      ### We're here to offer our individuals with a much better lifestyle via
+      plant-based &#xA;components and technology advancements. 
+
+
+      Merging modern-day innovation  with recognized horticulture methods
+      enables for the very easy 
+
+      combination of the therapeutic power of cannabis right into one's daily
+      regimen.
+
+
+      Distilling the knowledge of plants to aid individuals get to the full 
+
+      capacity of their bodies, minds and lives. 
+
+
+      Our professional researchers  team up with several of the top doctors in
+      their fields to create 
+
+      innovative cannabis therapies that permit people to take control of 
+
+      their own health with very targeted, results-driven approaches. Our 
+
+      organic cannabis extract and also progressed delivery systems are of the
+       finest quality as well as standards, which indicates that we provide 
+      one of the most efficient treatment and distribution incorporated with 
+
+      the ideal components.
   - type: team_section
     title: Our Team
     team:
