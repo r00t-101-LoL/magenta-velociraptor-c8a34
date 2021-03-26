@@ -30,6 +30,7 @@ sections:
       crucial terpenes in the production of all of its products.
 
       UNDERSTANDING BIOAVAILABILITY As Well As APPLICATION
+      
       Study reveals that transdermal shipment is the most efficient method of 
       supplying marijuana to the body, as it directly enters the bloodstream. 
       When marijuana is smoked or eaten, individuals might shed up to 70 
