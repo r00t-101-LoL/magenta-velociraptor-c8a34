@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: hero_section
-    title: Our Story
+    title: 'Our Story, Our Passion'
     align: center
   - type: content_section
     content: >
