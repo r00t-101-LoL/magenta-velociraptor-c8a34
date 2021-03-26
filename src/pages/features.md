@@ -18,6 +18,7 @@ sections:
           - label: Learn More
             url: /about
             style: primary
+        title: 'Oral Sprays & Tinctures '
       - title: Relax and Relief
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
