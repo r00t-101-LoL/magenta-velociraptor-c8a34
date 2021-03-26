@@ -26,7 +26,7 @@ sections:
       oils of many types of plants and blossoms. They provide marijuana 
       varieties their unique buildings, flavors as well as fragrances. 
       Throughout the procedure of removing crucial oils from cannabis, 
-      terpenes are often shed. However, Mary's strives to maintain or renew 
+      terpenes are often shed. However, Sol Lotus strives to maintain or renew 
       crucial terpenes in the production of all of its products.
 
       UNDERSTANDING BIOAVAILABILITY As Well As APPLICATION
