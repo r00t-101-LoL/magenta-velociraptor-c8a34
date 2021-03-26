@@ -10,8 +10,7 @@ sections:
       endocannabinoids, compounds our bodies normally create to control as well as balance communication in between cells. Scientists think that unpleasant signs and symptoms as well as diseases occur when a deficiency or problem impacts the endocannabinoid system.
 
       Cannabinoids bind to receptor sites in the brain as well as body when cannabis is administered. Cannabinoids have various effects based upon 
-      which receptors to which they bind. As an example, CBN (cannabinol) binds with CB-2 receptors situated throughout the body, which may 
-      describe why clients report that it is a powerful analgesic. With an 
+      which receptors to which they bind. As an example, CBN (cannabinol) binds with CB-2 receptors situated throughout the body, which may describe why clients report that it is a powerful analgesic. With an 
       increasing understanding of the effects of cannabinoids, individuals can
        currently customize their cannabinoid usage to the kind of relief they 
       need.
