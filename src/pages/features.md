@@ -3,7 +3,52 @@ title: Features
 sections:
   - type: hero_section
     title: Featured Product Categories
-    subtitle: Premium Botanical and Wellness Blends
+    subtitle: |-
+      Cannabinoids are the chemical substances within cannabis that are 
+      reported to relieve numerous ailments. Cannabinoids resemble 
+      endocannabinoids, compounds our bodies normally create to control as 
+      well as balance communication in between cells. Scientists think that 
+      unpleasant signs and symptoms as well as diseases occur when a 
+      deficiency or problem impacts the endocannabinoid system.
+
+      Cannabinoids bind to receptor sites in the brain as well as body when 
+      marijuana is administered. Cannabinoids have various effects based upon 
+      which receptors to which they bind. As an example, CBN (cannabinol) 
+      binds with CB-2 receptors situated throughout the body, which may 
+      describe why clients report that it is a powerful analgesic. With an 
+      increasing understanding of the effects of cannabinoids, individuals can
+       currently customize their cannabinoid usage to the kind of relief they 
+      need.
+
+      Terpenes and also terpenoids are the key components of the important 
+      oils of many types of plants and blossoms. They provide marijuana 
+      varieties their unique buildings, flavors as well as fragrances. 
+      Throughout the procedure of removing crucial oils from cannabis, 
+      terpenes are often shed. However, Mary's strives to maintain or renew 
+      crucial terpenes in the production of all of its products.
+
+      UNDERSTANDING BIOAVAILABILITY As Well As APPLICATION
+      Study reveals that transdermal shipment is the most efficient method of 
+      supplying marijuana to the body, as it directly enters the bloodstream. 
+      When marijuana is smoked or eaten, individuals might shed up to 70 
+      percent of it to air stomach, metabolism and vaporization acid, which is
+       inefficient as well as makes exact dosing hard. Mary's transdermal 
+      items are so efficient that the application of a conventional 10mg patch
+       may amount that of an 80mg edible.
+
+      With enhanced bioavailability, Mary's items offer a trustworthy, 
+      consistent dose. Like all medications, an individual's dose is based on 
+      many factors, such as age, body composition as well as diagnosis. One 
+      spot makes up a common dose for many patients, although some choose to 
+      cut a spot into fifty percents or perhaps quarters, while others may 
+      make use of greater than one spot to attain alleviation.
+
+      Cannabinoids are the chemical compounds within cannabis that are 
+      reported to relieve several disorders. When cannabis is carried out, 
+      cannabinoids bind to receptor websites in the mind and body. With an 
+      enhancing understanding of the impacts of cannabinoids, people can 
+      currently customize their cannabinoid consumption to the type of relief 
+      they need.
     align: center
   - type: features_section
     features:
