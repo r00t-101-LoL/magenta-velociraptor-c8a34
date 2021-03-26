@@ -39,8 +39,7 @@ sections:
       With enhanced bioavailability, Sol Lotus's items offer a trustworthy, consistent dose. Like all medications, an individual's dose is based on 
       many factors, such as age, body composition as well as diagnosis. Two sprays makes up a common dose for many patients, although some choose to take one, while others may make use of greater than one spray to attain alleviation.
 
-      Cannabinoids are the chemical compounds within cannabis that are 
-      reported to relieve several disorders. When cannabis is carried out, 
+      Cannabinoids are the chemical compounds within cannabis that are reported to relieve several disorders. When cannabis is carried out, 
       cannabinoids bind to receptor websites in the mind and body. With an 
       enhancing understanding of the impacts of cannabinoids, people can 
       currently customize their cannabinoid consumption to the type of relief 
