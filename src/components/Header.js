@@ -8,6 +8,7 @@ export default class Header extends React.Component {
     render() {
         return (
             <header className="site-header">
+            <script type="text/javascript" src="https://apiv2.popupsmart.com/api/Bundle/363398" async></script>
               <div className="container container--lg">
                 <nav className="navbar" aria-label="Main Navigation">
                   <Link className="sr-only" to="#content">Skip to main content</Link>
