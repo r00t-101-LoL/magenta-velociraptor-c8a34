@@ -8,7 +8,7 @@ sections:
         align: left
         image_position: right
         actions:
-          - label: Learn More
+          - label: Contact Us
             url: /features
             style: secondary
 template: advanced
