@@ -9,7 +9,7 @@ sections:
         image_position: right
         actions:
           - label: Contact Us
-            url: /features
+            url: /contact
             style: secondary
 template: advanced
 ---
