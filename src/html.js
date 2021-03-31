@@ -1,6 +1,5 @@
 import React from "react"
 import PropTypes from "prop-types"
-//import Pop
 
 export default function HTML(props) {
   return (
