@@ -23,7 +23,7 @@ sections:
       background_image_opacity: 20
       background_image_size: contain
       background_image_repeat: no-repeat
-    title: 'Laugh Harder, Feel Better'
+    title: 'Laugh Harder, Feel Better, Relax '
   - type: features_section
     title: What's Your Vibe
     features:
