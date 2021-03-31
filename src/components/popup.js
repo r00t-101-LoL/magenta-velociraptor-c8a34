@@ -14,7 +14,7 @@ function App() {
 
 
         <script
-          src="https://apiv2.popupsmart.com/api/Bundle/363398" async"
+          src="https://apiv2.popupsmart.com/api/Bundle/363398" async></script>"
         />
         <script>
           {`
