@@ -8,9 +8,6 @@ categories:
 tags:
   - Jamstack
   - Netlify
-excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
 template: post
 ---
 
