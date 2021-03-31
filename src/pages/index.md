@@ -23,7 +23,7 @@ sections:
       background_image_opacity: 20
       background_image_size: contain
       background_image_repeat: no-repeat
-    title: 'Enjoy Life, Laugh Harder'
+    title: ' Laugh Harder'
   - type: features_section
     title: What's Your Vibe
     features:
