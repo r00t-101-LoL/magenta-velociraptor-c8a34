@@ -11,16 +11,5 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - type: cta_section
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    has_background: false
-    background_color: gray
-    title: Find your vibe
 template: advanced
 ---
