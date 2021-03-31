@@ -83,6 +83,6 @@ sections:
     actions: []
     has_background: false
     background_color: gray
-    title: Find your vibe
+    title: Return to your roots
 template: advanced
 ---
