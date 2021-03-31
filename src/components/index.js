@@ -17,7 +17,7 @@ import Layout from './Layout';
 //import Pop from './Pop';
 
 export {
-    Pop,
+   // Pop,
     Action,
     BlogFeedItemFilter,
     BlogFeedSection,
