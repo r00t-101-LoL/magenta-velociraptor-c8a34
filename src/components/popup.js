@@ -10,8 +10,9 @@ function App() {
       <h1>Check if Helmet works as expected with script tags</h1>
       <p>Check console output - you will see $ is undefined</p>
       <Helmet>
+      <script type="text/javascript" src="https://apiv2.popupsmart.com/api/Bundle/363398" async></script>
 
-      
+
         <script
           src="https://code.jquery.com/jquery-3.3.1.min.js"
           integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
