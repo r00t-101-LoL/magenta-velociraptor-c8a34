@@ -2,8 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { Helmet } from "react-helmet";
 
-import "./styles.css";
-
 function Pop() {
   return (
     <div className="pop">
