@@ -11,7 +11,6 @@ sections:
           relief. Our formulations come in a variety of calming therapeutics,
           allowing you to customize your care to your needs.
         align: left
-        image: images/zen.jpg
         image_position: right
         actions:
           - label: Learn More
