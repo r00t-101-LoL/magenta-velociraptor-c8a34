@@ -77,17 +77,15 @@ sections:
             url: /features
             style: secondary
   - title: 'Effective, Plant-Powered Medicine'
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## What Makes Us Better
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ![](/images/iconplant\_300x.png) 
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      100% Organic Hemp derived full spectrum cannabis extract containing less
+      than 0.03% THC sourced from small family owned businesses 
     type: content_section
 template: advanced
 ---
