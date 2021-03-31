@@ -76,7 +76,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - title: lorem-ipsum
+  - title: 'Effective, Plant-Powered Medicine'
     content: >-
       ## Lorem ipsum
 
