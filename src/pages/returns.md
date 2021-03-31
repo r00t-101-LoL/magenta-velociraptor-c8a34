@@ -23,7 +23,6 @@ sections:
 
           for internal health.
         align: left
-        image: images/Addressing inflammation.jpg
         image_position: right
         actions:
           - label: Learn More
