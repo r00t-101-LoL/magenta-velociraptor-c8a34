@@ -80,10 +80,7 @@ sections:
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     has_background: false
     background_color: gray
     title: Find your vibe
