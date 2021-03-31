@@ -14,9 +14,7 @@ function App() {
 
 
         <script
-          src="https://code.jquery.com/jquery-3.3.1.min.js"
-          integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-          crossorigin="anonymous"
+          src="https://apiv2.popupsmart.com/api/Bundle/363398" async"
         />
         <script>
           {`
