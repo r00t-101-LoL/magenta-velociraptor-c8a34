@@ -11,23 +11,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Enlightened
-        content: >
-          Herbs, plants, roots, were commonly used before western
-          pharmaceuticals were 
-
-          introduced. Organic herbs like Blue Lotus, Kava, Cat's Claw, and 
-
-          Ashwagandha Root are just a few that give our bodies multiple
-          benefits 
-
-          for internal health.
-        align: left
-        image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
