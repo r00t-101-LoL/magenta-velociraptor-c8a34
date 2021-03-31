@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: features_section
-    title: What's Your Vibe
+    title: Return Policy
     features:
       - title: Relaxed and Relieved
         content: >
