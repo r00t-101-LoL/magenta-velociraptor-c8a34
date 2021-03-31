@@ -78,14 +78,11 @@ sections:
             style: secondary
   - title: 'Effective, Plant-Powered Medicine'
     content: >
-      ## What Makes Us Better
-
-
-      ![](/images/iconplant\_300x.png) 
 
 
       100% Organic Hemp derived full spectrum cannabis extract containing less
-      than 0.03% THC sourced from small family owned businesses 
+      than 0.03% THC sourced from small family owned businesses. We test, test,
+      and test again to make sure our products are the safest on the market.
     type: content_section
 template: advanced
 ---
