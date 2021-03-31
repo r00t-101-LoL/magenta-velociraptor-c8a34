@@ -11,24 +11,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Stimulated and Focused
-        content: >
-          Unleash your creativity and power through a mountain of emails with
-          the 
-
-          focusing effect of this therapeutic blend. It's been said that the 
-
-          effects may suppress food cravings, so be sure to keep balance in
-          your 
-
-          body with proper nourishment.
-        align: left
-        image: images/oil.png
-        image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
       - title: Enlightened
         content: >
           Herbs, plants, roots, were commonly used before western
