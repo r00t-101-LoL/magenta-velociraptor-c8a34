@@ -17,9 +17,7 @@ export default function HTML(props) {
           id="___gatsby"
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
-        {props.postBodyComponents}npm install gatsby-plugin-react-helmet react-helmet
-
-
+        {props.postBodyComponents}
       </body>
     </html>
   )
