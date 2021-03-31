@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { Helmet } from "react-helmet";
 
-function Pop() {
+export def Pop() {
   return (
     <div className="pop">
       <Helmet>
