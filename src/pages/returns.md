@@ -1,29 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    subtitle: >-
-      Sol-Lotus  Botanicals is a small batch boutique of naturally derived
-      aromatherapy, topicals and tinctures. Our brand uses the highest quality
-      of organically grown hemp flower for its extracts and products.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-      - label: Products
-        url: /contact
-        style: secondary
-    align: center
-    image_alt: Hero placeholder image
-    image_position: right
-    has_background: true
-    background:
-      background_color: white
-      background_image_opacity: 75
-      background_image_size: auto
-      background_image_repeat: no-repeat
-      background_image: images/violet-whale.svg
-    title: A Name You Can Trust
   - type: features_section
     title: What's Your Vibe
     features:
