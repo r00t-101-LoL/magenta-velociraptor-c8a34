@@ -1,5 +1,5 @@
 ---
-title: Resources and Affiliates
+title: Resources
 excerpt: lorem-ipsum
 template: page
 ---
