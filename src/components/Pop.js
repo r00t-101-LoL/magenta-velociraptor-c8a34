@@ -19,4 +19,3 @@ export default class Pop() {
   );
 }
 
-export default Pop;
