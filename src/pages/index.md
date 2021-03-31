@@ -76,13 +76,5 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - type: cta_section
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions: []
-    has_background: false
-    background_color: gray
-    title: Return to your roots
 template: advanced
 ---
