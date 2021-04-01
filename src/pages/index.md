@@ -74,7 +74,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /features
+            url: /about
             style: secondary
   - title: 'Effective, Plant-Powered Medicine'
     content: >
