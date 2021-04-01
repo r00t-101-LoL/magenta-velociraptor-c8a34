@@ -7,7 +7,7 @@ import BlogPostTags from './BlogPostTags';
 import ContactSection from './ContactSection';
 import ContentSection from './ContentSection';
 import CtaSection from './CtaSection';
-import Relax from './FeaturesSection';
+import Relax from './relaz';
 import Footer from './Footer';
 import Header from './Header';
 import HeroSection from './HeroSection';
