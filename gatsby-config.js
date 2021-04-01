@@ -36,7 +36,7 @@ module.exports = {
           },
         ], */
         options: {
-            src: '/static/assets/js/popup .js', // Change to the script filename
+            src: '/static/assets/js/popup.js', // Change to the script filename
           },
       },
 
