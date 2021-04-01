@@ -36,7 +36,7 @@ module.exports = {
           },
         ], */
         options: {
-            src: '/assets/scripts/test.js', // Change to the script filename
+            src: '/static/assets/scripts/test.js', // Change to the script filename
           },
       },
 
