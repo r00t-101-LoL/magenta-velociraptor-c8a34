@@ -6,7 +6,7 @@ sections:
       An alternative to medication.
       Not natural medicine.
 
-title: Features
+title: The Vibrational Spectrum
 sections:
   - type: hero_section
       title: |-
