@@ -14,10 +14,8 @@ import HeroSection from './HeroSection';
 import SectionActions from './SectionActions';
 import TeamSection from './TeamSection';
 import Layout from './Layout';
-//import Pop from './Pop';
 
 export {
-   // Pop,
     Action,
     BlogFeedItemFilter,
     BlogFeedSection,
