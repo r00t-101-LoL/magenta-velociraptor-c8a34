@@ -9,8 +9,8 @@
                 "style": "secondary"
             },
             {
-                "label": "Terms",
-                "url": "/terms",
+                "label": "FAQ",
+                "url": "/faq",
                 "style": "link"
             },
             {
