@@ -45,7 +45,7 @@ export default {
     ContactSection,
     ContentSection,
     CtaSection,
-    FeaturesSection,
+    //FeaturesSection,
     Footer,
     Header,
     HeroSection,
