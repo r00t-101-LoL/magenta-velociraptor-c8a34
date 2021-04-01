@@ -26,7 +26,7 @@ export {
     ContentSection,
     CtaSection,
     //FeaturesSection,
-    
+    Relax,
     Footer,
     Header,
     HeroSection,
