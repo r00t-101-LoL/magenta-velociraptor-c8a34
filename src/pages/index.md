@@ -8,7 +8,7 @@ sections:
       of organically grown hemp flower for its extracts and products.
     actions:
       - label: Learn More
-        url: /features
+        url: /about
         style: secondary
       - label: Products
         url: /contact
