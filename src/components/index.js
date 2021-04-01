@@ -7,7 +7,7 @@ import BlogPostTags from './BlogPostTags';
 import ContactSection from './ContactSection';
 import ContentSection from './ContentSection';
 import CtaSection from './CtaSection';
-import Relax from './relax';
+import Relax from './rela';
 import Footer from './Footer';
 import Header from './Header';
 import HeroSection from './HeroSection';
@@ -25,8 +25,7 @@ export {
     ContactSection,
     ContentSection,
     CtaSection,
-    //FeaturesSection,
-    Relax,
+    FeaturesSection,
     Footer,
     Header,
     HeroSection,
@@ -45,8 +44,7 @@ export default {
     ContactSection,
     ContentSection,
     CtaSection,
-    //FeaturesSection,
-    Relax,
+    FeaturesSection,
     Footer,
     Header,
     HeroSection,
