@@ -36,7 +36,7 @@
         "nav_links": [
             {
                 "label": "Return Policy",
-                "url": "/contact",
+                "url": "/returns",
                 "style": "link"
             },
             {
