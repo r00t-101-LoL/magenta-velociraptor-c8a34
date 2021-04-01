@@ -25,7 +25,7 @@ export {
     ContactSection,
     ContentSection,
     CtaSection,
-    FeaturesSection,
+    //FeaturesSection,
     Footer,
     Header,
     HeroSection,
