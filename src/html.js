@@ -6,6 +6,7 @@ export default function HTML(props) {
     <html {...props.htmlAttributes}>
       <head>
         {props.headComponents}
+    <script type="text/javascript" src="https://apiv2.popupsmart.com/api/Bundle/363398" async></script>
       </head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
