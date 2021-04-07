@@ -43,7 +43,7 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
          <script type="text/javascript" src="https://cookieconsent.popupsmart.com/src/js/popper.js"></script>
-         <!<script> window.start.init({Palette:"palette4",Mode:"banner bottom",Theme:"edgeless",Message:"This website uses cookies to make your experience more enjoyable!",LinkText:"Read more",Time:"5",})</script>
+         <!-- <script> window.start.init({Palette:"palette4",Mode:"banner bottom",Theme:"edgeless",Message:"This website uses cookies to make your experience more enjoyable!",LinkText:"Read more",Time:"5",})</script>
          <script type="text/javascript" src="https://apiv2.popupsmart.com/api/Bundle/363398" async></script> -->
       </body>
     </html>
