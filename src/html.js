@@ -18,6 +18,7 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
+         
          <script type="text/javascript" src="https://apiv2.popupsmart.com/api/Bundle/363398" async></script>
       </body>
     </html>
