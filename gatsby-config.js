@@ -26,8 +26,8 @@ module.exports = {
         resolve: `gatsby-plugin-fullstory`,
         options: {
           fs_org: 1282G4,
-      }
-     },
+        }
+       },
 
        /* {
             resolve: 'gatsby-plugin-load-script',
