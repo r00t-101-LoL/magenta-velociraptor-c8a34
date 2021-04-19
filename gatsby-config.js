@@ -27,7 +27,7 @@ module.exports = {
       options: {
         fs_org: 1282G4,
       }
-    },
+     },
 
        /* {
             resolve: 'gatsby-plugin-load-script',
