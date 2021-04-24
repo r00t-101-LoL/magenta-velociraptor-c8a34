@@ -22,6 +22,7 @@ module.exports = {
             resolve: `gatsby-remark-page-creator`,
             options: {}
         },
+        
 
        /* {
             resolve: 'gatsby-plugin-load-script',
